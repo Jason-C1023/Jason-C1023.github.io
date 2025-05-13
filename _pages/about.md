@@ -19,39 +19,38 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, My name is **Liwei Deng**, a senior undergraduate student from [Shenzhen University](https://www.szu.edu.cn/), majoring in [Electronic Information Engineering](https://ceie.szu.edu.cn/) (expected graduation in July 2025). I will join @[AAII-UTS](https://www.uts.edu.au/research/australian-artificial-intelligence-institute) (Australian Artificial Intelligence Institute, University of Technology Sydney) as a PhD. Student in July 2025, supervised by Prof. [Guodong Long](https://guodonglong.github.io/).
+Hi, My name is **Junshen Chen**, a senior undergraduate student from [Shenzhen University](https://www.szu.edu.cn/), majoring in [Electronic Science and Technology](https://ceie.szu.edu.cn/) (expected graduation in July 2025).
 
-My research interest includes **Time Series Forecasting** and **Federated Recommendation**. 
+My research interest includes **Reinforcement Learning** and **Internet of Things (IoTs)**. 
 
 
 # 🔥 News
 
-- *2025.02.22*: &nbsp;🎉🎉 I received my **first** citation on Google Scholar!
 - *2021.09.01*: &nbsp;🎉🎉 I entered Shenzhen University (SZU) for undergraduate study
+
 
 # 📝 Publications 
 
-- Xiaobao Song, **Liwei Deng**, Hao Wang\* and et al. "Deep Learning-based Time Series Forecasting" published by *Artificial Intelligence Review* (JCR Q1, IF=12.0) [Project](https://github.com/TCCofWANG/Deep-Learning-based-Time-Series-Forecasting) [PDF](https://doi.org/10.1007/s10462-024-10989-8)
+- **Junshen Chen**, Qihao Yuan, Huiyi Ding, Xingzheng Zhu\*, and Shiyao Zhang. “Low-Latency NOMA-Enabled Vehicle Platoon Resource Allocation Scheme: A Deep Deterministic Policy Gradient-Based Approach,” in *IEEE Communications Letters*. [PDF]
+- **Junshen Chen**, Qihao Yuan, Shiyao Zhang\* and Chang Liu, “Data-Driven OTFS Channel Estimation Based on Gated Recurrent Convolutional Autoencoder,” in *Proceedings of the 22nd International Symposium on Communications and Information Technologies (ISCIT 2023)*, Sydney, Australia, 16-18 October 2023.
+- Qihao Yuan, **Junshen Chen**, Zezhong Zhang\* and Shiyao Zhang\*. “Low-Latency Resource Allocation Scheme in OTFS-NOMA IoV Platoon System,” in *Proceedings of the 2024 IEEE/CIC International Conference on Communications in China (ICCC Workshops)*, Hangzhou, China, 7-9 August 2024.
 
 *Under Review:*
 
-- **Liwei Deng**, Hao Wang\*, et al., "STD2Vformer: A Prediction-length-agnostic Spatiotemporal Forecasting Model," submitted to *IEEE Transactions on Knowledge and Data Engineering* (JCR Q1, CCF A) [Project](https://github.com/LiweiDengDavid/STD2Vformer) 
-- **Liwei Deng**, Hao Wang\* and et al.“Patch Attention Based Adaptive Multihead Graph Convolutional Networks for Traffic Flow Forecasting” submitted to *ACM Transactions on Knowledge Discovery from Data* (JCR Q1, CCF B) [Project](https://github.com/LiweiDengDavid/PA2MGCN)
-- Xiaobao Song, Hao Wang\*, **Liwei Deng**, et al.,"D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding" has been published on *Arxiv*, submitted to *IEEE Transactions on Neural Networks and Learning Systems* [Project](https://github.com/TCCofWANG/D2Vformer) [PDF](https://doi.org/10.48550/arXiv.2409.11024)
-
 # 📖 Educations
 
-- Incoming PhD. Student 25'Fall @AAII-UTS,  supervised by Prof. Guodong Long.
 - *2021.09 - 2025.07 (now)*, *Bachelor of Electronic Information Engineering* in Shenzhen University (SZU), China. 
+
 
 # 💻 Internships
 
-- *2022.09 - 2025.01*, Research Assistant (Supervised by Assistant Professor [Hao Wang](https://tccofwang.github.io/index.html)) in Guangdong Multimedia Information Service Engineering Technology Research Center, SZU
-- *2024.1 - Present*, Research Assistant (Supervised by Assistant Professor [Shiyao Zhang](https://jasonzhangs001.github.io/shiyaozhang/)) in [Great Bay University](https://www.gbu.edu.cn/)
+- *2023.8 - 2025.6*, Visiting Student (Supervised by Assistant Professor [Weijie Yuan](https://sites.google.com/view/weijie-yuan/home)) in [Southern University of Science and Technology](https://www.sustech.edu.cn/)
+
 
 # 🎖 Honors and Awards
 
 - 
+
 
 # 💬 Invited Talks
 
