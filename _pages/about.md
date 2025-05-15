@@ -39,7 +39,8 @@ My research interest includes **Reinforcement Learning** and **Internet of Thing
 
 # 📖 Educations
 
-- *2021.09 - 2025.07 (now)*, *Bachelor of Electronic Information Engineering* in Shenzhen University (SZU), China. 
+- Incoming PhD. Student 25'Fall, supervised by Prof. Zezhong Zhang.
+- *2021.09 - 2025.07 (now)*, *Bachelor of Electronic Information Engineering* in Shenzhen University (SZU), China.
 
 
 # 💻 Internships
