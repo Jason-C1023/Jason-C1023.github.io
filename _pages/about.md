@@ -36,10 +36,11 @@ My research interest includes **Reinforcement Learning** and **Internet of Thing
 - Qihao Yuan, **Junshen Chen**, Zezhong Zhang\* and Shiyao Zhang\*. “Low-Latency Resource Allocation Scheme in OTFS-NOMA IoV Platoon System,” in *Proceedings of the 2024 IEEE/CIC International Conference on Communications in China (ICCC Workshops)*, Hangzhou, China, 7-9 August 2024.
 
 *Under Review:*
+- Congwen Liu, **Junshen Chen**, Zezhong Zhang\*, and Shiyao Zhang. “Assessing Learning-Based Resource Allocation Scheme for UAV-Assisted OTFS-NOMA System,” *The 2025 IEEE/CIC International Conference on Communications in China (ICCC)*, Under review.
 
 # 📖 Educations
 
-- Incoming PhD. Student 25'Fall, supervised by Prof. Zezhong Zhang.
+- Incoming Mphil Student 25'Fall, supervised by Prof. Zezhong Zhang.
 - *2021.09 - 2025.07 (now)*, *Bachelor of Electronic Information Engineering* in Shenzhen University (SZU), China.
 
 
